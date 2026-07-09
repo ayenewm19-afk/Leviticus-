@@ -1,0 +1,6 @@
+{
+  "name": "Leviticus Bible Quiz",
+  "description": "የኦሪት ዘሌዋውያን ምዕራፍ 1-27 መጽሐፍ ቅዱስ ጥያቄና መልስ ውድድር - Interactive 50-question Bible Quiz on the Book of Leviticus Chapters 1-27 with high-score tracking and detailed review in Amharic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
